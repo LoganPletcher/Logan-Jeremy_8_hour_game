@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Arrow_Collision_Point : MonoBehaviour {
+public class Arrow_Right_Movement : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
